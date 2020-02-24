@@ -15,4 +15,4 @@ writing:
         MatchFileFragment --fragment "Item3" --count 0 --exact
         CountMarkdownTags --tag "heading" --count 6 --exact
         CountMarkdownTags --tag "list" --count 1 --exact
-CountCommits --count 1
+CountCommits --count 3
